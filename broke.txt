@@ -1,0 +1,8 @@
+/usr/share/apache2/icons/broken.gif
+/usr/share/apache2/icons/broken.png
+/usr/share/apache2/icons/small/broken.gif
+/usr/share/apache2/icons/small/broken.png
+/usr/share/doc/libroken18-heimdal
+/usr/share/doc/libroken18-heimdal/changelog.Debian.gz
+/usr/share/doc/libroken18-heimdal/copyright
+/usr/share/lintian/overrides/libroken18-heimdal
